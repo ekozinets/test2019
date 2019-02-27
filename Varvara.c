@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("Hello, IVTm");
+	printf("Hello, bachelors");
 }
